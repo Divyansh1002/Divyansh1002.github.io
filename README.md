@@ -1,2 +1,2 @@
-# Divyansh1002.github.io
+# divyansh1002.github.io
 Personal Portfolio
